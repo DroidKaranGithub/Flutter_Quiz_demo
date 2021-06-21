@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ms-ssd-01/Documents/KARAN/Flutter/flutter_quiz_demo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/ms-ssd-01/Documents/KARAN/Flutter/Flutter_Quiz_App/Flutter_Quiz_demo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/ms-ssd-01/Documents/KARAN/Flutter/flutter_quiz_demo/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/ms-ssd-01/Documents/KARAN/Flutter/Flutter_Quiz_App/Flutter_Quiz_demo/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

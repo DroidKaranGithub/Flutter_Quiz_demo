@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ms-ssd-01/Documents/KARAN/Flutter/flutter_quiz_demo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "/home/ms-ssd-01/Documents/KARAN/Flutter/Flutter_Quiz_App/Flutter_Quiz_demo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
                     "source": "/home/ms-ssd-01/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/values-en-rIN/values-en-rIN.xml",
