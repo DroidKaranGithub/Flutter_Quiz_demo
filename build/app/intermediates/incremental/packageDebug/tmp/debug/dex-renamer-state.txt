@@ -1,0 +1,4 @@
+#Mon Jun 21 11:29:09 IST 2021
+base.0=/home/ms-ssd-01/Documents/KARAN/Flutter/flutter_quiz_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
